@@ -44,11 +44,17 @@ Technologies Used:
 Sample Input:
 
 > Add Course: C (3 credits, 99 marks)
+
 > Add Course: Python (2 credits, 89 marks)
+
 > View Courses
+
 > Calculate GPA → 9.60
+
 > Add Course: Java (4 credits, 56 marks)
+
 > Calculate GPA → 6.00
+
 > Calculate CGPA → 7.80
 
 --------------------------------------------------
